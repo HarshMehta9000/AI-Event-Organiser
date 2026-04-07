@@ -74,7 +74,7 @@ ai-event-organiser/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone and install
 
